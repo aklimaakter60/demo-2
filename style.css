@@ -1,0 +1,39 @@
+table{
+	font-family:"Courier New", Courier, monospace;
+	border-collapse: collapse;
+}
+td,
+th{
+	border:1px solid black;
+}
+ul{
+	/*list-style-type: circle;
+	list-style-type: square;
+	list-style-type: none;*/
+}
+#title{
+	background: red;
+	color:#fff;
+	padding: 10px;
+}
+body{
+	background-color:#895e56;
+}
+h1{
+	font-size:50px;
+	color:red;
+	background-color:#fed5bc;
+}
+h2{
+	color:blue;
+background-color:#d1f6f4;	
+}
+h3{
+	color:green;
+background-color:#e4f670;	
+}
+h4{
+	font-size:30px;
+	background-color:#fee7d8;
+	
+}
